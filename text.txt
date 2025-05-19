@@ -1,1 +1,2 @@
 hello
+edycja w develop na lokalnym
