@@ -1,2 +1,3 @@
 osoby:
+OskarGraszka
 mgrasz
