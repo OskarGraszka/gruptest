@@ -1,3 +1,7 @@
 hello
 edycja w develop na lokalnym
 trzecia linia
+
+
+
+jkj
