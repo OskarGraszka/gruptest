@@ -1,3 +1,4 @@
-osoby:
+blaosoby:
 OskarGraszka
 mgrasz
+bla
